@@ -1,2 +1,2 @@
 # associacao-api
-Api REST ultilizando Wordpress - Projeto feito em 2017
+Api REST feita em Wordpress para um sistema de uma associacao de estudantes - Projeto feito em 2017
