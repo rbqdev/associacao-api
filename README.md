@@ -1,2 +1,2 @@
 # associacao-api
-Api REST ultilizando Wordpress
+Api REST ultilizando Wordpress - Projeto feito em 2017
